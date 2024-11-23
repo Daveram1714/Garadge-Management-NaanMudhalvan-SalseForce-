@@ -1,6 +1,9 @@
 
 # Garage Management Salesforce Project
 
+## Salseforce Playground Link
+https://ppginstitueofthechnology-dev-ed.develop.lightning.force.com/lightning/setup/ObjectManager/home
+
 ## Overview
 
 This repository documents the creation of a Garage Management system using Salesforce. The project includes features like record creation, flows, reports, dashboards, and user adoption processes. It provides an end-to-end solution for managing customer details, service appointments, billing, and feedback within a garage management system.
