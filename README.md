@@ -91,9 +91,3 @@ Each milestone represents a significant step in the implementation of the system
 
 ---
 
-## How to Use
-
-1. *Clone the repository:*
-   Clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/yourusername/garage-management-salesforce.git
